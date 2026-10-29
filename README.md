@@ -46,7 +46,7 @@ python tracker.py                       # today's prices from the demo shop
 python tracker.py --date 2026-10-01     # the demo shop as it was on that day
 ```
 
-![A run of the tracker](assets/run.png)
+![The demo shop, a run of the tracker, and the price history](assets/demo.gif)
 
 ## Results so far
 
