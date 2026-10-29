@@ -1,0 +1,51 @@
+name: Daily price check
+
+on:
+  schedule:
+    # Every day at 06:17 UTC. GitHub may start a scheduled run a few minutes late, which is fine.
+    - cron: "17 6 * * *"
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write             # needed to commit the new prices back to the repo
+
+concurrency:
+  group: track
+  cancel-in-progress: false   # never interrupt a run mid-write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run tests
+        run: python -m pytest tests/ -q
+
+      - name: Check prices
+        run: python tracker.py
+
+      - name: Commit new prices
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "data: price check $(date -u +'%Y-%m-%d')"
+            git pull --rebase --autostash origin main
+            git push
+          fi

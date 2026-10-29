@@ -1,0 +1,1081 @@
+date,id,name,category,price,in_stock
+2026-09-15,DG-101,Wireless earbuds Pro,Audio,1560.0,True
+2026-09-15,DG-102,Over-ear headphones,Audio,1955.0,True
+2026-09-15,DG-103,Bluetooth speaker Mini,Audio,810.0,True
+2026-09-15,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-15,DG-105,Soundbar 2.1,Audio,4750.0,True
+2026-09-15,DG-106,USB microphone,Audio,1620.0,True
+2026-09-15,DG-107,Neckband earphones,Audio,550.0,True
+2026-09-15,DG-108,Kids headphones,Audio,540.0,True
+2026-09-15,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-15,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-15,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-15,DG-204,Smart ring,Wearables,4195.0,True
+2026-09-15,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-15,DG-206,"Watch strap, silicone",Wearables,215.0,True
+2026-09-15,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-15,DG-208,Sports armband,Wearables,300.0,False
+2026-09-15,DG-301,"Power bank 20,000 mAh",Charging,1125.0,True
+2026-09-15,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-15,DG-303,65W USB-C charger,Charging,825.0,True
+2026-09-15,DG-304,Wireless charging pad,Charging,555.0,True
+2026-09-15,DG-305,3-in-1 charging stand,Charging,1450.0,False
+2026-09-15,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-15,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-15,DG-308,Solar power bank,Charging,1125.0,True
+2026-09-16,DG-101,Wireless earbuds Pro,Audio,1560.0,True
+2026-09-16,DG-102,Over-ear headphones,Audio,1955.0,True
+2026-09-16,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-16,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-16,DG-105,Soundbar 2.1,Audio,4750.0,True
+2026-09-16,DG-106,USB microphone,Audio,1620.0,True
+2026-09-16,DG-107,Neckband earphones,Audio,530.0,True
+2026-09-16,DG-108,Kids headphones,Audio,540.0,True
+2026-09-16,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-16,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-16,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-16,DG-204,Smart ring,Wearables,4195.0,True
+2026-09-16,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-16,DG-206,"Watch strap, silicone",Wearables,215.0,True
+2026-09-16,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-16,DG-208,Sports armband,Wearables,300.0,False
+2026-09-16,DG-301,"Power bank 20,000 mAh",Charging,935.0,True
+2026-09-16,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-16,DG-303,65W USB-C charger,Charging,825.0,True
+2026-09-16,DG-304,Wireless charging pad,Charging,460.0,True
+2026-09-16,DG-305,3-in-1 charging stand,Charging,1450.0,False
+2026-09-16,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-16,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-16,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-17,DG-101,Wireless earbuds Pro,Audio,1560.0,True
+2026-09-17,DG-102,Over-ear headphones,Audio,1960.0,True
+2026-09-17,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-17,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-17,DG-105,Soundbar 2.1,Audio,4750.0,True
+2026-09-17,DG-106,USB microphone,Audio,1620.0,True
+2026-09-17,DG-107,Neckband earphones,Audio,530.0,True
+2026-09-17,DG-108,Kids headphones,Audio,540.0,True
+2026-09-17,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-17,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-17,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-17,DG-204,Smart ring,Wearables,4195.0,True
+2026-09-17,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-17,DG-206,"Watch strap, silicone",Wearables,215.0,True
+2026-09-17,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-17,DG-208,Sports armband,Wearables,300.0,False
+2026-09-17,DG-301,"Power bank 20,000 mAh",Charging,935.0,True
+2026-09-17,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-17,DG-303,65W USB-C charger,Charging,825.0,True
+2026-09-17,DG-304,Wireless charging pad,Charging,460.0,True
+2026-09-17,DG-305,3-in-1 charging stand,Charging,1450.0,False
+2026-09-17,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-17,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-17,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-18,DG-101,Wireless earbuds Pro,Audio,1490.0,True
+2026-09-18,DG-102,Over-ear headphones,Audio,1960.0,True
+2026-09-18,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-18,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-18,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-18,DG-106,USB microphone,Audio,1620.0,True
+2026-09-18,DG-107,Neckband earphones,Audio,530.0,True
+2026-09-18,DG-108,Kids headphones,Audio,540.0,True
+2026-09-18,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-18,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-18,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-18,DG-204,Smart ring,Wearables,4195.0,True
+2026-09-18,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-18,DG-206,"Watch strap, silicone",Wearables,215.0,True
+2026-09-18,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-18,DG-208,Sports armband,Wearables,300.0,False
+2026-09-18,DG-301,"Power bank 20,000 mAh",Charging,935.0,True
+2026-09-18,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-18,DG-303,65W USB-C charger,Charging,825.0,True
+2026-09-18,DG-304,Wireless charging pad,Charging,460.0,True
+2026-09-18,DG-305,3-in-1 charging stand,Charging,1450.0,False
+2026-09-18,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-18,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-18,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-19,DG-101,Wireless earbuds Pro,Audio,1535.0,True
+2026-09-19,DG-102,Over-ear headphones,Audio,1960.0,True
+2026-09-19,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-19,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-19,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-19,DG-106,USB microphone,Audio,1620.0,True
+2026-09-19,DG-107,Neckband earphones,Audio,470.0,True
+2026-09-19,DG-108,Kids headphones,Audio,540.0,True
+2026-09-19,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-19,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-19,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-19,DG-204,Smart ring,Wearables,4205.0,True
+2026-09-19,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-19,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-09-19,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-19,DG-208,Sports armband,Wearables,280.0,True
+2026-09-19,DG-301,"Power bank 20,000 mAh",Charging,935.0,True
+2026-09-19,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-19,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-19,DG-304,Wireless charging pad,Charging,460.0,True
+2026-09-19,DG-305,3-in-1 charging stand,Charging,1205.0,True
+2026-09-19,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-19,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-19,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-20,DG-101,Wireless earbuds Pro,Audio,1535.0,True
+2026-09-20,DG-102,Over-ear headphones,Audio,2085.0,False
+2026-09-20,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-20,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-20,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-20,DG-106,USB microphone,Audio,1620.0,True
+2026-09-20,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-20,DG-108,Kids headphones,Audio,540.0,True
+2026-09-20,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-20,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-20,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-20,DG-204,Smart ring,Wearables,4205.0,True
+2026-09-20,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-20,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-09-20,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-20,DG-208,Sports armband,Wearables,280.0,True
+2026-09-20,DG-301,"Power bank 20,000 mAh",Charging,935.0,True
+2026-09-20,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-20,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-20,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-20,DG-305,3-in-1 charging stand,Charging,1205.0,True
+2026-09-20,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-20,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-20,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-21,DG-101,Wireless earbuds Pro,Audio,1535.0,True
+2026-09-21,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-21,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-21,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-21,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-21,DG-106,USB microphone,Audio,1620.0,True
+2026-09-21,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-21,DG-108,Kids headphones,Audio,540.0,True
+2026-09-21,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-21,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-21,DG-203,Smart watch Kids,Wearables,1685.0,True
+2026-09-21,DG-204,Smart ring,Wearables,4085.0,True
+2026-09-21,DG-205,GPS tracker tag,Wearables,765.0,True
+2026-09-21,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-09-21,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-21,DG-208,Sports armband,Wearables,280.0,True
+2026-09-21,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-21,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-21,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-21,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-21,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-21,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-21,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-21,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-22,DG-101,Wireless earbuds Pro,Audio,1535.0,True
+2026-09-22,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-22,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-22,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-22,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-22,DG-106,USB microphone,Audio,1595.0,False
+2026-09-22,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-22,DG-108,Kids headphones,Audio,540.0,True
+2026-09-22,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-22,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-22,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-22,DG-204,Smart ring,Wearables,4085.0,True
+2026-09-22,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-22,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-09-22,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-22,DG-208,Sports armband,Wearables,280.0,True
+2026-09-22,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-22,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-22,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-22,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-22,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-22,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-22,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-22,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-23,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-23,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-23,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-23,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-23,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-23,DG-106,USB microphone,Audio,1595.0,False
+2026-09-23,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-23,DG-108,Kids headphones,Audio,540.0,True
+2026-09-23,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-23,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-23,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-23,DG-204,Smart ring,Wearables,4085.0,True
+2026-09-23,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-23,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-09-23,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-23,DG-208,Sports armband,Wearables,280.0,True
+2026-09-23,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-23,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-23,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-23,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-23,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-23,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-23,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-23,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-24,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-24,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-24,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-24,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-24,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-24,DG-106,USB microphone,Audio,1595.0,False
+2026-09-24,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-24,DG-108,Kids headphones,Audio,540.0,True
+2026-09-24,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-24,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-24,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-24,DG-204,Smart ring,Wearables,4085.0,True
+2026-09-24,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-24,DG-206,"Watch strap, silicone",Wearables,205.0,True
+2026-09-24,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-24,DG-208,Sports armband,Wearables,275.0,True
+2026-09-24,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-24,DG-302,"Power bank 10,000 mAh",Charging,565.0,True
+2026-09-24,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-24,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-24,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-24,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-24,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-24,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-25,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-25,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-25,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-25,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-25,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-25,DG-106,USB microphone,Audio,1595.0,False
+2026-09-25,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-25,DG-108,Kids headphones,Audio,540.0,True
+2026-09-25,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-25,DG-202,Fitness band,Wearables,1230.0,True
+2026-09-25,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-25,DG-204,Smart ring,Wearables,4085.0,True
+2026-09-25,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-25,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-25,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-25,DG-208,Sports armband,Wearables,275.0,True
+2026-09-25,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-25,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-09-25,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-25,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-25,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-25,DG-306,Car charger dual USB,Charging,330.0,True
+2026-09-25,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-25,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-26,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-26,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-26,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-26,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-26,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-26,DG-106,USB microphone,Audio,1595.0,False
+2026-09-26,DG-107,Neckband earphones,Audio,500.0,True
+2026-09-26,DG-108,Kids headphones,Audio,560.0,True
+2026-09-26,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-26,DG-202,Fitness band,Wearables,1070.0,True
+2026-09-26,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-26,DG-204,Smart ring,Wearables,3710.0,True
+2026-09-26,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-26,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-26,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-26,DG-208,Sports armband,Wearables,275.0,True
+2026-09-26,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-26,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-09-26,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-26,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-26,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-26,DG-306,Car charger dual USB,Charging,265.0,True
+2026-09-26,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-26,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-27,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-27,DG-102,Over-ear headphones,Audio,2440.0,True
+2026-09-27,DG-103,Bluetooth speaker Mini,Audio,995.0,True
+2026-09-27,DG-104,Bluetooth speaker Max,Audio,2820.0,True
+2026-09-27,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-27,DG-106,USB microphone,Audio,1595.0,False
+2026-09-27,DG-107,Neckband earphones,Audio,545.0,True
+2026-09-27,DG-108,Kids headphones,Audio,560.0,True
+2026-09-27,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-27,DG-202,Fitness band,Wearables,1070.0,True
+2026-09-27,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-27,DG-204,Smart ring,Wearables,3710.0,True
+2026-09-27,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-27,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-27,DG-207,Watch charger dock,Wearables,320.0,True
+2026-09-27,DG-208,Sports armband,Wearables,275.0,True
+2026-09-27,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-27,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-09-27,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-27,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-27,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-27,DG-306,Car charger dual USB,Charging,265.0,True
+2026-09-27,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-27,DG-308,Solar power bank,Charging,1280.0,True
+2026-09-28,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-28,DG-102,Over-ear headphones,Audio,2130.0,True
+2026-09-28,DG-103,Bluetooth speaker Mini,Audio,900.0,True
+2026-09-28,DG-104,Bluetooth speaker Max,Audio,2450.0,False
+2026-09-28,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-28,DG-106,USB microphone,Audio,1595.0,False
+2026-09-28,DG-107,Neckband earphones,Audio,545.0,True
+2026-09-28,DG-108,Kids headphones,Audio,685.0,True
+2026-09-28,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-28,DG-202,Fitness band,Wearables,1070.0,True
+2026-09-28,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-28,DG-204,Smart ring,Wearables,3710.0,True
+2026-09-28,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-28,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-28,DG-207,Watch charger dock,Wearables,300.0,True
+2026-09-28,DG-208,Sports armband,Wearables,275.0,True
+2026-09-28,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-28,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-09-28,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-28,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-28,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-28,DG-306,Car charger dual USB,Charging,265.0,True
+2026-09-28,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-28,DG-308,Solar power bank,Charging,1195.0,True
+2026-09-29,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-29,DG-102,Over-ear headphones,Audio,2130.0,True
+2026-09-29,DG-103,Bluetooth speaker Mini,Audio,900.0,True
+2026-09-29,DG-104,Bluetooth speaker Max,Audio,2450.0,False
+2026-09-29,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-29,DG-106,USB microphone,Audio,1595.0,False
+2026-09-29,DG-107,Neckband earphones,Audio,545.0,True
+2026-09-29,DG-108,Kids headphones,Audio,685.0,True
+2026-09-29,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-29,DG-202,Fitness band,Wearables,1070.0,True
+2026-09-29,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-29,DG-204,Smart ring,Wearables,3710.0,True
+2026-09-29,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-09-29,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-29,DG-207,Watch charger dock,Wearables,300.0,True
+2026-09-29,DG-208,Sports armband,Wearables,275.0,True
+2026-09-29,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-09-29,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-09-29,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-29,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-29,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-29,DG-306,Car charger dual USB,Charging,265.0,True
+2026-09-29,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-29,DG-308,Solar power bank,Charging,1195.0,True
+2026-09-30,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-09-30,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-09-30,DG-103,Bluetooth speaker Mini,Audio,900.0,True
+2026-09-30,DG-104,Bluetooth speaker Max,Audio,2450.0,False
+2026-09-30,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-09-30,DG-106,USB microphone,Audio,1595.0,False
+2026-09-30,DG-107,Neckband earphones,Audio,545.0,True
+2026-09-30,DG-108,Kids headphones,Audio,685.0,True
+2026-09-30,DG-201,Smart watch S2,Wearables,3410.0,True
+2026-09-30,DG-202,Fitness band,Wearables,1070.0,True
+2026-09-30,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-09-30,DG-204,Smart ring,Wearables,3710.0,True
+2026-09-30,DG-205,GPS tracker tag,Wearables,730.0,False
+2026-09-30,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-09-30,DG-207,Watch charger dock,Wearables,295.0,True
+2026-09-30,DG-208,Sports armband,Wearables,275.0,True
+2026-09-30,DG-301,"Power bank 20,000 mAh",Charging,1055.0,True
+2026-09-30,DG-302,"Power bank 10,000 mAh",Charging,670.0,True
+2026-09-30,DG-303,65W USB-C charger,Charging,855.0,False
+2026-09-30,DG-304,Wireless charging pad,Charging,500.0,True
+2026-09-30,DG-305,3-in-1 charging stand,Charging,1250.0,True
+2026-09-30,DG-306,Car charger dual USB,Charging,265.0,True
+2026-09-30,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-09-30,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-01,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-01,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-01,DG-103,Bluetooth speaker Mini,Audio,855.0,True
+2026-10-01,DG-104,Bluetooth speaker Max,Audio,2575.0,True
+2026-10-01,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-01,DG-106,USB microphone,Audio,1605.0,True
+2026-10-01,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-01,DG-108,Kids headphones,Audio,685.0,True
+2026-10-01,DG-201,Smart watch S2,Wearables,2970.0,True
+2026-10-01,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-01,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-01,DG-204,Smart ring,Wearables,3710.0,True
+2026-10-01,DG-205,GPS tracker tag,Wearables,730.0,False
+2026-10-01,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-01,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-01,DG-208,Sports armband,Wearables,310.0,True
+2026-10-01,DG-301,"Power bank 20,000 mAh",Charging,1055.0,True
+2026-10-01,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-10-01,DG-303,65W USB-C charger,Charging,855.0,False
+2026-10-01,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-01,DG-305,3-in-1 charging stand,Charging,1390.0,True
+2026-10-01,DG-306,Car charger dual USB,Charging,265.0,True
+2026-10-01,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-01,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-02,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-02,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-02,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-02,DG-104,Bluetooth speaker Max,Audio,2725.0,True
+2026-10-02,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-02,DG-106,USB microphone,Audio,1605.0,True
+2026-10-02,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-02,DG-108,Kids headphones,Audio,650.0,True
+2026-10-02,DG-201,Smart watch S2,Wearables,2970.0,True
+2026-10-02,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-02,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-02,DG-204,Smart ring,Wearables,3710.0,True
+2026-10-02,DG-205,GPS tracker tag,Wearables,730.0,False
+2026-10-02,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-02,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-02,DG-208,Sports armband,Wearables,310.0,True
+2026-10-02,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-02,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-10-02,DG-303,65W USB-C charger,Charging,855.0,False
+2026-10-02,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-02,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-02,DG-306,Car charger dual USB,Charging,265.0,True
+2026-10-02,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-02,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-03,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-03,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-03,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-03,DG-104,Bluetooth speaker Max,Audio,2725.0,True
+2026-10-03,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-03,DG-106,USB microphone,Audio,1605.0,True
+2026-10-03,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-03,DG-108,Kids headphones,Audio,650.0,True
+2026-10-03,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-03,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-03,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-03,DG-204,Smart ring,Wearables,3710.0,True
+2026-10-03,DG-205,GPS tracker tag,Wearables,730.0,False
+2026-10-03,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-03,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-03,DG-208,Sports armband,Wearables,310.0,True
+2026-10-03,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-03,DG-302,"Power bank 10,000 mAh",Charging,535.0,True
+2026-10-03,DG-303,65W USB-C charger,Charging,855.0,False
+2026-10-03,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-03,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-03,DG-306,Car charger dual USB,Charging,265.0,True
+2026-10-03,DG-307,USB-C cable 2 m,Charging,160.0,True
+2026-10-03,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-04,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-04,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-04,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-04,DG-104,Bluetooth speaker Max,Audio,2725.0,True
+2026-10-04,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-04,DG-106,USB microphone,Audio,1520.0,True
+2026-10-04,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-04,DG-108,Kids headphones,Audio,650.0,True
+2026-10-04,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-04,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-04,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-04,DG-204,Smart ring,Wearables,3710.0,True
+2026-10-04,DG-205,GPS tracker tag,Wearables,730.0,False
+2026-10-04,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-04,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-04,DG-208,Sports armband,Wearables,265.0,True
+2026-10-04,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-04,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-04,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-04,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-04,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-04,DG-306,Car charger dual USB,Charging,265.0,True
+2026-10-04,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-04,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-05,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-05,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-05,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-05,DG-104,Bluetooth speaker Max,Audio,2725.0,True
+2026-10-05,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-05,DG-106,USB microphone,Audio,1520.0,True
+2026-10-05,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-05,DG-108,Kids headphones,Audio,665.0,True
+2026-10-05,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-05,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-05,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-05,DG-204,Smart ring,Wearables,3710.0,True
+2026-10-05,DG-205,GPS tracker tag,Wearables,805.0,True
+2026-10-05,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-05,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-05,DG-208,Sports armband,Wearables,265.0,True
+2026-10-05,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-05,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-05,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-05,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-05,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-05,DG-306,Car charger dual USB,Charging,265.0,True
+2026-10-05,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-05,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-06,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-06,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-06,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-06,DG-104,Bluetooth speaker Max,Audio,2725.0,True
+2026-10-06,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-06,DG-106,USB microphone,Audio,1520.0,True
+2026-10-06,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-06,DG-108,Kids headphones,Audio,665.0,True
+2026-10-06,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-06,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-06,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-06,DG-204,Smart ring,Wearables,3690.0,True
+2026-10-06,DG-205,GPS tracker tag,Wearables,805.0,True
+2026-10-06,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-06,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-06,DG-208,Sports armband,Wearables,265.0,True
+2026-10-06,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-06,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-06,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-06,DG-304,Wireless charging pad,Charging,465.0,True
+2026-10-06,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-06,DG-306,Car charger dual USB,Charging,280.0,True
+2026-10-06,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-06,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-07,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-07,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-07,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-07,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-07,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-07,DG-106,USB microphone,Audio,1520.0,True
+2026-10-07,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-07,DG-108,Kids headphones,Audio,595.0,True
+2026-10-07,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-07,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-07,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-07,DG-204,Smart ring,Wearables,3690.0,True
+2026-10-07,DG-205,GPS tracker tag,Wearables,710.0,True
+2026-10-07,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-07,DG-207,Watch charger dock,Wearables,295.0,True
+2026-10-07,DG-208,Sports armband,Wearables,265.0,True
+2026-10-07,DG-301,"Power bank 20,000 mAh",Charging,995.0,True
+2026-10-07,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-07,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-07,DG-304,Wireless charging pad,Charging,480.0,True
+2026-10-07,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-07,DG-306,Car charger dual USB,Charging,280.0,True
+2026-10-07,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-07,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-08,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-08,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-08,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-08,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-08,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-08,DG-106,USB microphone,Audio,1520.0,True
+2026-10-08,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-08,DG-108,Kids headphones,Audio,595.0,True
+2026-10-08,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-08,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-08,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-08,DG-204,Smart ring,Wearables,3690.0,True
+2026-10-08,DG-205,GPS tracker tag,Wearables,710.0,True
+2026-10-08,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-08,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-08,DG-208,Sports armband,Wearables,265.0,True
+2026-10-08,DG-301,"Power bank 20,000 mAh",Charging,1130.0,False
+2026-10-08,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-08,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-08,DG-304,Wireless charging pad,Charging,480.0,True
+2026-10-08,DG-305,3-in-1 charging stand,Charging,1295.0,True
+2026-10-08,DG-306,Car charger dual USB,Charging,280.0,True
+2026-10-08,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-08,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-09,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-09,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-09,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-09,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-09,DG-105,Soundbar 2.1,Audio,5150.0,False
+2026-10-09,DG-106,USB microphone,Audio,1520.0,True
+2026-10-09,DG-107,Neckband earphones,Audio,545.0,True
+2026-10-09,DG-108,Kids headphones,Audio,595.0,True
+2026-10-09,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-09,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-09,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-09,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-09,DG-205,GPS tracker tag,Wearables,710.0,True
+2026-10-09,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-09,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-09,DG-208,Sports armband,Wearables,265.0,True
+2026-10-09,DG-301,"Power bank 20,000 mAh",Charging,940.0,True
+2026-10-09,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-09,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-09,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-09,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-09,DG-306,Car charger dual USB,Charging,280.0,True
+2026-10-09,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-09,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-10,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-10,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-10,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-10,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-10,DG-105,Soundbar 2.1,Audio,5110.0,True
+2026-10-10,DG-106,USB microphone,Audio,1520.0,True
+2026-10-10,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-10,DG-108,Kids headphones,Audio,595.0,True
+2026-10-10,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-10,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-10,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-10,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-10,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-10-10,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-10,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-10,DG-208,Sports armband,Wearables,255.0,True
+2026-10-10,DG-301,"Power bank 20,000 mAh",Charging,940.0,True
+2026-10-10,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-10,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-10,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-10,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-10,DG-306,Car charger dual USB,Charging,315.0,True
+2026-10-10,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-10,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-11,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-11,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-11,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-11,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-11,DG-105,Soundbar 2.1,Audio,5110.0,True
+2026-10-11,DG-106,USB microphone,Audio,1520.0,True
+2026-10-11,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-11,DG-108,Kids headphones,Audio,595.0,True
+2026-10-11,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-11,DG-202,Fitness band,Wearables,1220.0,True
+2026-10-11,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-11,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-11,DG-205,GPS tracker tag,Wearables,735.0,True
+2026-10-11,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-11,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-11,DG-208,Sports armband,Wearables,255.0,True
+2026-10-11,DG-301,"Power bank 20,000 mAh",Charging,940.0,True
+2026-10-11,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-11,DG-303,65W USB-C charger,Charging,930.0,True
+2026-10-11,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-11,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-11,DG-306,Car charger dual USB,Charging,315.0,True
+2026-10-11,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-11,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-12,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-12,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-12,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-12,DG-104,Bluetooth speaker Max,Audio,2365.0,True
+2026-10-12,DG-105,Soundbar 2.1,Audio,5110.0,True
+2026-10-12,DG-106,USB microphone,Audio,1625.0,True
+2026-10-12,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-12,DG-108,Kids headphones,Audio,595.0,True
+2026-10-12,DG-201,Smart watch S2,Wearables,3005.0,True
+2026-10-12,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-12,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-12,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-12,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-12,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-12,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-12,DG-208,Sports armband,Wearables,255.0,True
+2026-10-12,DG-301,"Power bank 20,000 mAh",Charging,940.0,True
+2026-10-12,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-12,DG-303,65W USB-C charger,Charging,865.0,True
+2026-10-12,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-12,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-12,DG-306,Car charger dual USB,Charging,315.0,True
+2026-10-12,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-12,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-13,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-13,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-13,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-13,DG-104,Bluetooth speaker Max,Audio,2845.0,True
+2026-10-13,DG-105,Soundbar 2.1,Audio,4690.0,True
+2026-10-13,DG-106,USB microphone,Audio,1475.0,True
+2026-10-13,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-13,DG-108,Kids headphones,Audio,595.0,True
+2026-10-13,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-13,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-13,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-13,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-13,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-13,DG-206,"Watch strap, silicone",Wearables,210.0,False
+2026-10-13,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-13,DG-208,Sports armband,Wearables,255.0,True
+2026-10-13,DG-301,"Power bank 20,000 mAh",Charging,1010.0,True
+2026-10-13,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-13,DG-303,65W USB-C charger,Charging,770.0,True
+2026-10-13,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-13,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-13,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-13,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-13,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-14,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-14,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-14,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-14,DG-104,Bluetooth speaker Max,Audio,2845.0,True
+2026-10-14,DG-105,Soundbar 2.1,Audio,4690.0,True
+2026-10-14,DG-106,USB microphone,Audio,1475.0,True
+2026-10-14,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-14,DG-108,Kids headphones,Audio,595.0,True
+2026-10-14,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-14,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-14,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-14,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-14,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-14,DG-206,"Watch strap, silicone",Wearables,205.0,True
+2026-10-14,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-14,DG-208,Sports armband,Wearables,255.0,True
+2026-10-14,DG-301,"Power bank 20,000 mAh",Charging,1010.0,True
+2026-10-14,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-14,DG-303,65W USB-C charger,Charging,770.0,True
+2026-10-14,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-14,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-14,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-14,DG-307,USB-C cable 2 m,Charging,185.0,True
+2026-10-14,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-15,DG-101,Wireless earbuds Pro,Audio,1545.0,True
+2026-10-15,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-15,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-15,DG-104,Bluetooth speaker Max,Audio,2845.0,True
+2026-10-15,DG-105,Soundbar 2.1,Audio,4690.0,True
+2026-10-15,DG-106,USB microphone,Audio,1475.0,True
+2026-10-15,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-15,DG-108,Kids headphones,Audio,595.0,True
+2026-10-15,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-15,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-15,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-15,DG-204,Smart ring,Wearables,3595.0,True
+2026-10-15,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-15,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-15,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-15,DG-208,Sports armband,Wearables,255.0,True
+2026-10-15,DG-301,"Power bank 20,000 mAh",Charging,1010.0,True
+2026-10-15,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-15,DG-303,65W USB-C charger,Charging,735.0,True
+2026-10-15,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-15,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-15,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-15,DG-307,USB-C cable 2 m,Charging,150.0,False
+2026-10-15,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-16,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-16,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-16,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-16,DG-104,Bluetooth speaker Max,Audio,2845.0,True
+2026-10-16,DG-105,Soundbar 2.1,Audio,5740.0,False
+2026-10-16,DG-106,USB microphone,Audio,1475.0,True
+2026-10-16,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-16,DG-108,Kids headphones,Audio,595.0,True
+2026-10-16,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-16,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-16,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-16,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-16,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-16,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-16,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-16,DG-208,Sports armband,Wearables,255.0,True
+2026-10-16,DG-301,"Power bank 20,000 mAh",Charging,1010.0,True
+2026-10-16,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-16,DG-303,65W USB-C charger,Charging,735.0,True
+2026-10-16,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-16,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-16,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-16,DG-307,USB-C cable 2 m,Charging,150.0,False
+2026-10-16,DG-308,Solar power bank,Charging,1195.0,True
+2026-10-17,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-17,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-17,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-17,DG-104,Bluetooth speaker Max,Audio,2845.0,True
+2026-10-17,DG-105,Soundbar 2.1,Audio,5340.0,True
+2026-10-17,DG-106,USB microphone,Audio,1475.0,True
+2026-10-17,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-17,DG-108,Kids headphones,Audio,625.0,True
+2026-10-17,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-17,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-17,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-17,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-17,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-17,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-17,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-17,DG-208,Sports armband,Wearables,255.0,True
+2026-10-17,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-17,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-17,DG-303,65W USB-C charger,Charging,735.0,True
+2026-10-17,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-17,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-17,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-17,DG-307,USB-C cable 2 m,Charging,195.0,True
+2026-10-17,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-18,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-18,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-18,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-18,DG-104,Bluetooth speaker Max,Audio,2195.0,True
+2026-10-18,DG-105,Soundbar 2.1,Audio,5340.0,True
+2026-10-18,DG-106,USB microphone,Audio,1760.0,True
+2026-10-18,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-18,DG-108,Kids headphones,Audio,625.0,True
+2026-10-18,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-18,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-18,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-18,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-18,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-18,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-18,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-18,DG-208,Sports armband,Wearables,255.0,True
+2026-10-18,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-18,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-18,DG-303,65W USB-C charger,Charging,735.0,True
+2026-10-18,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-18,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-18,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-18,DG-307,USB-C cable 2 m,Charging,155.0,True
+2026-10-18,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-19,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-19,DG-102,Over-ear headphones,Audio,2480.0,False
+2026-10-19,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-19,DG-104,Bluetooth speaker Max,Audio,2195.0,True
+2026-10-19,DG-105,Soundbar 2.1,Audio,5340.0,True
+2026-10-19,DG-106,USB microphone,Audio,1760.0,True
+2026-10-19,DG-107,Neckband earphones,Audio,500.0,True
+2026-10-19,DG-108,Kids headphones,Audio,625.0,True
+2026-10-19,DG-201,Smart watch S2,Wearables,3035.0,True
+2026-10-19,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-19,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-19,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-19,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-19,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-19,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-19,DG-208,Sports armband,Wearables,255.0,True
+2026-10-19,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-19,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-19,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-19,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-19,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-19,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-19,DG-307,USB-C cable 2 m,Charging,180.0,True
+2026-10-19,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-20,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-20,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-20,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-20,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-20,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-20,DG-106,USB microphone,Audio,1820.0,True
+2026-10-20,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-20,DG-108,Kids headphones,Audio,625.0,True
+2026-10-20,DG-201,Smart watch S2,Wearables,3350.0,True
+2026-10-20,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-20,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-20,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-20,DG-205,GPS tracker tag,Wearables,650.0,False
+2026-10-20,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-20,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-20,DG-208,Sports armband,Wearables,255.0,True
+2026-10-20,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-20,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-20,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-20,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-20,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-20,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-20,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-20,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-21,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-21,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-21,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-21,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-21,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-21,DG-106,USB microphone,Audio,1820.0,True
+2026-10-21,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-21,DG-108,Kids headphones,Audio,625.0,True
+2026-10-21,DG-201,Smart watch S2,Wearables,3350.0,True
+2026-10-21,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-21,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-21,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-21,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-21,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-21,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-21,DG-208,Sports armband,Wearables,255.0,True
+2026-10-21,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-21,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-21,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-21,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-21,DG-305,3-in-1 charging stand,Charging,1425.0,True
+2026-10-21,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-21,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-21,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-22,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-22,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-22,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-22,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-22,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-22,DG-106,USB microphone,Audio,1820.0,True
+2026-10-22,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-22,DG-108,Kids headphones,Audio,625.0,True
+2026-10-22,DG-201,Smart watch S2,Wearables,3350.0,True
+2026-10-22,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-22,DG-203,Smart watch Kids,Wearables,1920.0,True
+2026-10-22,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-22,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-22,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-22,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-22,DG-208,Sports armband,Wearables,255.0,True
+2026-10-22,DG-301,"Power bank 20,000 mAh",Charging,1040.0,True
+2026-10-22,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-22,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-22,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-22,DG-305,3-in-1 charging stand,Charging,1535.0,True
+2026-10-22,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-22,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-22,DG-308,Solar power bank,Charging,1140.0,True
+2026-10-23,DG-101,Wireless earbuds Pro,Audio,1230.0,True
+2026-10-23,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-23,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-23,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-23,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-23,DG-106,USB microphone,Audio,1820.0,True
+2026-10-23,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-23,DG-108,Kids headphones,Audio,625.0,True
+2026-10-23,DG-201,Smart watch S2,Wearables,3330.0,True
+2026-10-23,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-23,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-23,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-23,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-23,DG-206,"Watch strap, silicone",Wearables,245.0,True
+2026-10-23,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-23,DG-208,Sports armband,Wearables,255.0,True
+2026-10-23,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-23,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-23,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-23,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-23,DG-305,3-in-1 charging stand,Charging,1535.0,True
+2026-10-23,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-23,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-23,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-24,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-24,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-24,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-24,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-24,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-24,DG-106,USB microphone,Audio,1820.0,True
+2026-10-24,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-24,DG-108,Kids headphones,Audio,625.0,True
+2026-10-24,DG-201,Smart watch S2,Wearables,3330.0,True
+2026-10-24,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-24,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-24,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-24,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-24,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-24,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-24,DG-208,Sports armband,Wearables,255.0,True
+2026-10-24,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-24,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-24,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-24,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-24,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-24,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-24,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-24,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-25,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-25,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-25,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-25,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-25,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-25,DG-106,USB microphone,Audio,1820.0,True
+2026-10-25,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-25,DG-108,Kids headphones,Audio,625.0,True
+2026-10-25,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-25,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-25,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-25,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-25,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-25,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-25,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-25,DG-208,Sports armband,Wearables,285.0,True
+2026-10-25,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-25,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-25,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-25,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-25,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-25,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-25,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-25,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-26,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-26,DG-102,Over-ear headphones,Audio,2145.0,True
+2026-10-26,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-26,DG-104,Bluetooth speaker Max,Audio,2620.0,True
+2026-10-26,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-26,DG-106,USB microphone,Audio,1820.0,True
+2026-10-26,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-26,DG-108,Kids headphones,Audio,625.0,True
+2026-10-26,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-26,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-26,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-26,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-26,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-26,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-26,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-26,DG-208,Sports armband,Wearables,285.0,True
+2026-10-26,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-26,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-26,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-26,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-26,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-26,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-26,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-26,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-27,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-27,DG-102,Over-ear headphones,Audio,2450.0,True
+2026-10-27,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-27,DG-104,Bluetooth speaker Max,Audio,2440.0,True
+2026-10-27,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-27,DG-106,USB microphone,Audio,1820.0,True
+2026-10-27,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-27,DG-108,Kids headphones,Audio,625.0,True
+2026-10-27,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-27,DG-202,Fitness band,Wearables,1000.0,True
+2026-10-27,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-27,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-27,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-27,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-27,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-27,DG-208,Sports armband,Wearables,305.0,True
+2026-10-27,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-27,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-27,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-27,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-27,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-27,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-27,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-27,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-28,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-28,DG-102,Over-ear headphones,Audio,2450.0,True
+2026-10-28,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-28,DG-104,Bluetooth speaker Max,Audio,2440.0,True
+2026-10-28,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-28,DG-106,USB microphone,Audio,1820.0,True
+2026-10-28,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-28,DG-108,Kids headphones,Audio,625.0,True
+2026-10-28,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-28,DG-202,Fitness band,Wearables,1095.0,True
+2026-10-28,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-28,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-28,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-28,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-28,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-28,DG-208,Sports armband,Wearables,305.0,True
+2026-10-28,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-28,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-28,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-28,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-28,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-28,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-28,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-28,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-29,DG-101,Wireless earbuds Pro,Audio,1190.0,True
+2026-10-29,DG-102,Over-ear headphones,Audio,2450.0,True
+2026-10-29,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-29,DG-104,Bluetooth speaker Max,Audio,2440.0,True
+2026-10-29,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-29,DG-106,USB microphone,Audio,1820.0,True
+2026-10-29,DG-107,Neckband earphones,Audio,430.0,True
+2026-10-29,DG-108,Kids headphones,Audio,625.0,True
+2026-10-29,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-29,DG-202,Fitness band,Wearables,1095.0,True
+2026-10-29,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-29,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-29,DG-205,GPS tracker tag,Wearables,710.0,False
+2026-10-29,DG-206,"Watch strap, silicone",Wearables,240.0,True
+2026-10-29,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-29,DG-208,Sports armband,Wearables,305.0,True
+2026-10-29,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-29,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-29,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-29,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-29,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-29,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-29,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-29,DG-308,Solar power bank,Charging,1335.0,True
