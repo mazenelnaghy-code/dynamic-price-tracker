@@ -1,5 +1,7 @@
 # Dynamic Price Tracker
 
+[![Daily price check](../../actions/workflows/track.yml/badge.svg)](../../actions/workflows/track.yml)
+
 Tracks prices on online shops that build their pages with JavaScript, every day, and reports what changed:
 price drops and rises, new and removed products, and stock going out or coming back.
 
