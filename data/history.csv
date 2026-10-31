@@ -1103,3 +1103,27 @@ date,id,name,category,price,in_stock
 2026-10-30,DG-306,Car charger dual USB,Charging,310.0,True
 2026-10-30,DG-307,USB-C cable 2 m,Charging,175.0,True
 2026-10-30,DG-308,Solar power bank,Charging,1335.0,True
+2026-10-31,DG-101,Wireless earbuds Pro,Audio,1250.0,True
+2026-10-31,DG-102,Over-ear headphones,Audio,2450.0,True
+2026-10-31,DG-103,Bluetooth speaker Mini,Audio,940.0,True
+2026-10-31,DG-104,Bluetooth speaker Max,Audio,2440.0,True
+2026-10-31,DG-105,Soundbar 2.1,Audio,5325.0,False
+2026-10-31,DG-106,USB microphone,Audio,1885.0,True
+2026-10-31,DG-107,Neckband earphones,Audio,555.0,True
+2026-10-31,DG-108,Kids headphones,Audio,625.0,True
+2026-10-31,DG-201,Smart watch S2,Wearables,3250.0,False
+2026-10-31,DG-202,Fitness band,Wearables,1095.0,True
+2026-10-31,DG-203,Smart watch Kids,Wearables,1995.0,True
+2026-10-31,DG-204,Smart ring,Wearables,3545.0,True
+2026-10-31,DG-205,GPS tracker tag,Wearables,805.0,True
+2026-10-31,DG-206,"Watch strap, silicone",Wearables,220.0,True
+2026-10-31,DG-207,Watch charger dock,Wearables,275.0,False
+2026-10-31,DG-208,Sports armband,Wearables,305.0,True
+2026-10-31,DG-301,"Power bank 20,000 mAh",Charging,975.0,True
+2026-10-31,DG-302,"Power bank 10,000 mAh",Charging,580.0,True
+2026-10-31,DG-303,65W USB-C charger,Charging,835.0,True
+2026-10-31,DG-304,Wireless charging pad,Charging,475.0,True
+2026-10-31,DG-305,3-in-1 charging stand,Charging,1475.0,True
+2026-10-31,DG-306,Car charger dual USB,Charging,310.0,True
+2026-10-31,DG-307,USB-C cable 2 m,Charging,175.0,True
+2026-10-31,DG-308,Solar power bank,Charging,1335.0,True
