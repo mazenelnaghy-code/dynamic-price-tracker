@@ -1,8 +1,8 @@
-# Price check 2026-11-07
+# Price check 2026-11-08
 
-24 products checked, compared with 2026-11-06: 2 changes, 0 price drops.
+24 products checked, compared with 2026-11-07: 2 changes, 0 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| Smart watch S2 | Back in stock |  |  |  |
-| Smart watch S2 | Price rise | 3,250 | 3,385 | +4.2% |
+| Fitness band | Price rise | 1,035 | 1,110 | +7.2% |
+| Bluetooth speaker Mini | Price rise | 940 | 1,010 | +7.4% |
