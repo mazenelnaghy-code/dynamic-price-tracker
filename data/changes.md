@@ -1,8 +1,11 @@
-# Price check 2026-11-08
+# Price check 2026-11-09
 
-24 products checked, compared with 2026-11-07: 2 changes, 0 price drops.
+24 products checked, compared with 2026-11-08: 5 changes, 2 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| Fitness band | Price rise | 1,035 | 1,110 | +7.2% |
-| Bluetooth speaker Mini | Price rise | 940 | 1,010 | +7.4% |
+| Kids headphones | Price drop **deal** | 625 | 525 | -16.0% |
+| 65W USB-C charger | Price drop | 835 | 765 | -8.4% |
+| Watch charger dock | Price rise | 275 | 280 | +1.8% |
+| Bluetooth speaker Max | Price rise | 2,440 | 2,840 | +16.4% |
+| 3-in-1 charging stand | Price rise | 1,275 | 1,505 | +18.0% |
