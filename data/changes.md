@@ -1,11 +1,11 @@
-# Price check 2026-11-09
+# Price check 2026-11-10
 
-24 products checked, compared with 2026-11-08: 5 changes, 2 price drops.
+24 products checked, compared with 2026-11-09: 5 changes, 2 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| Kids headphones | Price drop **deal** | 625 | 525 | -16.0% |
-| 65W USB-C charger | Price drop | 835 | 765 | -8.4% |
-| Watch charger dock | Price rise | 275 | 280 | +1.8% |
-| Bluetooth speaker Max | Price rise | 2,440 | 2,840 | +16.4% |
-| 3-in-1 charging stand | Price rise | 1,275 | 1,505 | +18.0% |
+| GPS tracker tag | Price drop | 805 | 775 | -3.7% |
+| Soundbar 2.1 | Price drop | 5,645 | 5,470 | -3.1% |
+| Wireless earbuds Pro | Price rise | 1,250 | 1,330 | +6.4% |
+| Soundbar 2.1 | Out of stock |  |  |  |
+| GPS tracker tag | Out of stock |  |  |  |
