@@ -1,11 +1,12 @@
-# Price check 2026-11-10
+# Price check 2026-11-12
 
-24 products checked, compared with 2026-11-09: 5 changes, 2 price drops.
+24 products checked, compared with 2026-11-10: 6 changes, 2 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| GPS tracker tag | Price drop | 805 | 775 | -3.7% |
-| Soundbar 2.1 | Price drop | 5,645 | 5,470 | -3.1% |
-| Wireless earbuds Pro | Price rise | 1,250 | 1,330 | +6.4% |
-| Soundbar 2.1 | Out of stock |  |  |  |
-| GPS tracker tag | Out of stock |  |  |  |
+| USB microphone | Price drop **deal** | 1,885 | 1,525 | -19.1% |
+| Neckband earphones | Price drop | 480 | 470 | -2.1% |
+| Watch charger dock | Back in stock |  |  |  |
+| Smart ring | Price rise | 3,545 | 3,585 | +1.1% |
+| Watch charger dock | Price rise | 280 | 340 | +21.4% |
+| Smart ring | Out of stock |  |  |  |
