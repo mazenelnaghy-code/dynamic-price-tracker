@@ -1,8 +1,9 @@
-# Price check 2026-11-18
+# Price check 2026-11-19
 
-24 products checked, compared with 2026-11-17: 2 changes, 0 price drops.
+24 products checked, compared with 2026-11-18: 3 changes, 1 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| Smart watch Kids | Price rise | 1,600 | 1,785 | +11.6% |
-| Watch strap, silicone | Price rise | 200 | 255 | +27.5% |
+| Smart watch S2 | Price drop | 3,290 | 3,070 | -6.7% |
+| Smart watch S2 | Back in stock |  |  |  |
+| GPS tracker tag | Price rise | 640 | 720 | +12.5% |
