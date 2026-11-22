@@ -1,13 +1,11 @@
-# Price check 2026-11-21
+# Price check 2026-11-22
 
-24 products checked, compared with 2026-11-20: 7 changes, 4 price drops.
+24 products checked, compared with 2026-11-21: 5 changes, 3 price drops.
 
 | Product | Change | Before (EGP) | Now (EGP) | % |
 |---|---|---:|---:|---:|
-| Fitness band | Price drop **deal** | 1,225 | 960 | -21.6% |
-| Watch charger dock | Price drop | 340 | 310 | -8.8% |
-| 65W USB-C charger | Price drop | 870 | 820 | -5.7% |
-| Smart watch Kids | Price drop | 1,785 | 1,710 | -4.2% |
-| Fitness band | Back in stock |  |  |  |
-| USB microphone | Price rise | 1,525 | 1,690 | +10.8% |
-| Soundbar 2.1 | Price rise | 4,735 | 5,380 | +13.6% |
+| USB microphone | Price drop | 1,690 | 1,570 | -7.1% |
+| Solar power bank | Price drop | 1,300 | 1,230 | -5.4% |
+| Car charger dual USB | Price drop | 310 | 300 | -3.2% |
+| Smart watch Kids | Price rise | 1,710 | 1,855 | +8.5% |
+| Fitness band | Price rise | 960 | 1,060 | +10.4% |
